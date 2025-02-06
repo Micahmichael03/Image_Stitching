@@ -1,3 +1,5 @@
+# Three images are stitched together using OpenCV and NumPy libraries in Python.
+
 import numpy as np  # Import NumPy library for numerical operations
 import cv2  # Import OpenCV library for image processing
 import glob  # Import glob for file pattern matching
