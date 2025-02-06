@@ -6,7 +6,7 @@ import glob  # Import glob for file pattern matching
 import imutils  # Import imutils for image processing convenience functions
 
 # Get all the images from the folder
-image_paths = glob.glob('unstitchedImages/*.jpg')  # Get all image paths from the specified folder
+image_paths = glob.glob('images/*.png')  # Get all image paths from the specified folder
 images = []  # Initialize an empty list to store images
 
 # Loop through each image path
